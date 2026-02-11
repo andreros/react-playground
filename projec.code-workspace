@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "~",
+			"path": "."
+		},
+		{
+			"name": "favicon-color-scheme",
+			"path": "apps/favicon-color-scheme"
+		},
+		{
+			"name": "mermaid",
+			"path": "apps/mermaid"
+		},
+		{
+			"name": "sample",
+			"path": "apps/sample"
+		},
+		{
+			"name": "tic-tac-toe",
+			"path": "apps/tic-tac-toe"
+		}
+	]
+}

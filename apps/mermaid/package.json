@@ -1,0 +1,18 @@
+{
+	"name": "mermaid",
+	"description": "This application illustrates the usage of Mermaid diagrams inside a React application.",
+	"version": "1.0.0",
+	"author": {
+		"name": "André Rosa",
+		"email": "andreros@gmail.com"
+	},
+	"license": "Unlicense",
+	"scripts": {
+		"build": "rsbuild build",
+		"dev": "rsbuild dev --open",
+		"preview": "rsbuild preview"
+	},
+	"devDependencies": {
+		"mermaid": "11.6.0"
+	}
+}
