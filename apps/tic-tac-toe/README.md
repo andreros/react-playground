@@ -1,6 +1,6 @@
 # React Tic-tac-toe
 
-React project implementing the Tic-tac-toe game I made to play with my son.
+React project implementing the Tic-tac-toe game I made to play with my son. This project was initally vibe coded.
 
 ## Application Tech Stack
 
