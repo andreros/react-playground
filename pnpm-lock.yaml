@@ -57,6 +57,8 @@ importers:
 
   apps/favicon-color-scheme: {}
 
+  apps/favicon-color-scheme-2: {}
+
   apps/i18next:
     dependencies:
       i18next:

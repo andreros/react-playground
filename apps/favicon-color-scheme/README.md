@@ -2,7 +2,9 @@
 
 React project implementing a favicon that changes with the operating system color scheme (light or dark).
 
-Resource: [https://catalin.red/svg-favicon-light-dark-theme/](https://catalin.red/svg-favicon-light-dark-theme/)
+The initial favicon load is based in this article: [https://catalin.red/svg-favicon-light-dark-theme/](https://catalin.red/svg-favicon-light-dark-theme/)
+
+Once the initial load is made, a React hook takes over and listens to the System color scheme changes throught a media query.
 
 ## Application Tech Stack
 

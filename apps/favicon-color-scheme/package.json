@@ -2,7 +2,6 @@
 	"name": "favicon-color-scheme",
 	"description": "React project implementing a favicon that changes with the operating system color scheme (light or dark).",
 	"version": "1.0.0",
-	"type": "module",
 	"author": {
 		"name": "André Rosa",
 		"email": "andreros@gmail.com"
