@@ -1,6 +1,6 @@
 # React Sample Application
 
-RSample React application to help bootstrap a new application inside this React playground.
+Sample React application to help bootstrap a new application inside this React playground.
 
 Resource: [https://catalin.red/svg-favicon-light-dark-theme/](https://catalin.red/svg-favicon-light-dark-theme/)
 
@@ -25,25 +25,29 @@ From the project root folder, please execute any of the following commands in a 
 ### Installation and application bootstrap
 
 ```bash
+# from the `react-playground` root folder run the following commands:
+
 # install the application dependencies
 pnpm i
 
 # start the application in development mode
-pnpm run dev
+pnpm run dev --workspace=sample
 
 # build a version of the application for distribution
-pnpm run build
+pnpm run build --workspace=sample
 
 # run the built version from the `dist` folder
-pnpm run preview
+pnpm run preview --workspace=sample
 ```
 
 ### Code Quality
 
 ```bash
-# from the root folder, run BiomeJS
+# from the `react-playground` root folder run the following commands:
+
+# run BiomeJS
 pnpm run lint
 
-# from the root folder, run BiomeJS and fix all automatically fixable problems
+# run BiomeJS and fix all automatically fixable problems
 pnpm run lint:fix
 ```

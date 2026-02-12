@@ -23,17 +23,19 @@ From the project root folder, please execute any of the following commands in a 
 ### Installation and application bootstrap
 
 ```bash
+# from the `react-playground` root folder run the following commands:
+
 # install the application dependencies
 pnpm i
 
 # start the application in development mode
-pnpm run dev
+pnpm run dev --workspace=tic-tac-toe
 
 # build a version of the application for distribution
-pnpm run build
+pnpm run build --workspace=tic-tac-toe
 
 # run the built version from the `dist` folder
-pnpm run preview
+pnpm run preview --workspace=tic-tac-toe
 
 # reset and reinstall the application
 pnpm run nuke
@@ -42,6 +44,8 @@ pnpm run nuke
 ### Code Quality
 
 ```bash
+# from the `react-playground` root folder run the following commands:
+
 # run BiomeJS
 pnpm run lint
 

@@ -5,6 +5,7 @@ React playground, a collection of react applications implemening various aspects
 - [`favicon-color-scheme`](apps/favicon-color-scheme/README.md) - React application implementing a favicon that changes with the operating system color scheme (light or dark);
 - [`mermaid`](apps/mermaid/README.md) - React application illustrating the usage of Mermaid diagrams inside a React application.
 - [`tic-tac-toe`](apps/tic-tac-toe/README.md) - React application implementing a simple version of the Tic-tac-toe game.
+- [`sample`](apps/sample/README.md) - Sample React application to help bootstrap a new application inside this React playground.
 
 ## Application Tech Stack
 
@@ -27,7 +28,7 @@ From the project root folder, please execute any of the following commands in a 
 ### Installation and application bootstrap
 
 ```bash
-# install the application dependencies
+# install all the application dependencies
 pnpm i
 
 # start the application in development mode

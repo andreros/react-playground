@@ -27,17 +27,19 @@ From the project root folder, please execute any of the following commands in a 
 ### Installation and application bootstrap
 
 ```bash
+# from the `react-playground` root folder run the following commands:
+
 # install the application dependencies
 npm i
 
 # start the application in development mode
-npm run dev
+npm run dev --workspace=mermaid
 
 # build a version of the application for distribution
-npm run build
+npm run build --workspace=mermaid
 
 # serve the built version from the `dist` folder
-npm run serve
+npm run serve --workspace=mermaid
 
 # reset and reinstall the application
 npm run nuke
@@ -46,9 +48,11 @@ npm run nuke
 ### Code Quality
 
 ```bash
+# from the `react-playground` root folder run the following commands:
+
 # run BiomeJS
-npm run lint
+pnpm run lint
 
 # run BiomeJS and fix all automatically fixable problems
-npm run lint:fix
+pnpm run lint:fix
 ```
