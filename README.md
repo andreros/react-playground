@@ -2,9 +2,9 @@
 
 React playground, a collection of react applications implemening various aspects and technologies needed in commercial products.
 
-- `favicon-color-scheme` - React application implementing a favicon that changes with the operating system color scheme (light or dark);
-- `mermaid` - React application illustrating the usage of Mermaid diagrams inside a React application.
-- `tic-tac-toe` - React application implementing a simple version of the Tic-tac-toe game.
+- [`favicon-color-scheme`](apps/favicon-color-scheme/README.md) - React application implementing a favicon that changes with the operating system color scheme (light or dark);
+- [`mermaid`](apps/mermaid/README.md) - React application illustrating the usage of Mermaid diagrams inside a React application.
+- [`tic-tac-toe`](apps/tic-tac-toe/README.md) - React application implementing a simple version of the Tic-tac-toe game.
 
 ## Application Tech Stack
 
