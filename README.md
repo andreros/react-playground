@@ -3,8 +3,9 @@
 React playground, a collection of react applications implemening various aspects and technologies needed in commercial products.
 
 - [`favicon-color-scheme`](apps/favicon-color-scheme/README.md) - React application implementing a favicon that changes with the operating system color scheme (light or dark);
-- [`mermaid`](apps/mermaid/README.md) - React application illustrating the usage of Mermaid diagrams inside a React application.
-- [`tic-tac-toe`](apps/tic-tac-toe/README.md) - React application implementing a simple version of the Tic-tac-toe game.
+- [`i18next`](apps/i18next/README.md) - React application illustrating a basic implementation of i18n (internationalization) using the `i18next` and the `react-i18next` packages;
+- [`mermaid`](apps/mermaid/README.md) - React application illustrating the usage of Mermaid diagrams inside a React application;
+- [`tic-tac-toe`](apps/tic-tac-toe/README.md) - React application implementing a simple version of the Tic-tac-toe game;
 - [`sample`](apps/sample/README.md) - Sample React application to help bootstrap a new application inside this React playground.
 
 ## Application Tech Stack

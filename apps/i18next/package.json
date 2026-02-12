@@ -1,0 +1,19 @@
+{
+  "name": "i18next",
+  "description": "This application illustrates a basic implementation of i18n (internationalization) in a React project using i18next and react-i18next.",
+  "version": "1.0.0",
+  "author": {
+    "name": "André Rosa",
+    "email": "andreros@gmail.com"
+  },
+  "license": "Unlicense",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev --open",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "i18next": "24.2.2",
+    "react-i18next": "15.4.1"
+  }
+}
