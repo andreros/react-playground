@@ -2,8 +2,6 @@
 
 Sample React application to help bootstrap a new application inside this React playground.
 
-Resource: [https://catalin.red/svg-favicon-light-dark-theme/](https://catalin.red/svg-favicon-light-dark-theme/)
-
 ## Application Tech Stack
 
 -   `React` framework (with Typescript) for the overall application development;
