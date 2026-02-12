@@ -4,7 +4,7 @@ React project implementing a favicon that changes with the operating system colo
 
 The initial favicon load is based in this article: [https://catalin.red/svg-favicon-light-dark-theme/](https://catalin.red/svg-favicon-light-dark-theme/)
 
-Once the initial load is made, a React hook takes over and listens to the System color scheme changes throught a media query.
+Once the initial load is made, a React hook takes over and listens to the System color scheme changes through a media query and injects the correct favicon version into the document `<head />` tag.
 
 ## Application Tech Stack
 
